@@ -1,4 +1,4 @@
-# Hi, I'm Dennielys 👋
+# Hi, I'm Dennielys [denn] 👋
 
 **Full Stack Developer** with a background in strategic marketing.
 I build digital products that make technical sense *and* connect with real users.
