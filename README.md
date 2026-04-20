@@ -1,4 +1,4 @@
-#Hi! I'm Dennielys [denn]
+# Hi! I'm Dennielys [denn]
 
 Full Stack Developer · React · Python · Flask  
 Marketing background. Product mindset. Based in Spain.
