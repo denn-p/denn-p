@@ -25,7 +25,7 @@ and resonate with the people who use them.
 
 ## Projects
 
-**[Pomify →](https://sample-service-name-s6ai.onrender.com/about)**  
+**[Pomify →](https://pomify.es/)**  
 Productivity web app built around the Pomodoro technique.  
 `React` `Python` `Flask`
 
